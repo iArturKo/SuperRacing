@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  SuperRacing
+
+  Created by Артур Кононович on 23.08.21.
+  
+*/
+
+"Scores" = "Лидеры";
+"Settings:" = "Настройки:";
+"Nickname:" = "Имя:";
+"Terrain:" = "Местность:";
+"Speed:" = "Скорость:";
+"Cars:" = "Автомобили:";
+"Score: %d" = "Счет: %d";
+"GAME OVER!" = "Конец игры!";
+"Score:" = "Счет:";
+"Plain" = "Равнина";
+"Desert" = "Пустыня";
+"Normal" = "Средне";
+"Fast" = "Быстро";
+"Menu" = "Меню";
+"Retry" = "Снова";

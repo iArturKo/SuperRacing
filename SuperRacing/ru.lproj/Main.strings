@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "11I-ym-2Uz"; */
+"11I-ym-2Uz.text" = "Label";
+
+/* Class = "UILabel"; text = "Terrain:"; ObjectID = "4Ys-XP-5QW"; */
+"4Ys-XP-5QW.text" = "Terrain:";
+
+/* Class = "UILabel"; text = "Nickname:"; ObjectID = "7Rn-9i-eJh"; */
+"7Rn-9i-eJh.text" = "Nickname:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jpp-Lp-haX"; */
+"Jpp-Lp-haX.text" = "Label";
+
+/* Class = "UISegmentedControl"; LkS-gA-Ujh.segmentTitles[0] = "Normal"; ObjectID = "LkS-gA-Ujh"; */
+"LkS-gA-Ujh.segmentTitles[0]" = "Normal";
+
+/* Class = "UISegmentedControl"; LkS-gA-Ujh.segmentTitles[1] = "Fast"; ObjectID = "LkS-gA-Ujh"; */
+"LkS-gA-Ujh.segmentTitles[1]" = "Fast";
+
+/* Class = "UILabel"; text = "Settings:"; ObjectID = "N4n-s5-JUa"; */
+"N4n-s5-JUa.text" = "Settings:";
+
+/* Class = "UILabel"; text = "Cars:"; ObjectID = "QTW-7g-FLi"; */
+"QTW-7g-FLi.text" = "Cars:";
+
+/* Class = "UISegmentedControl"; VP5-Ph-Hcz.segmentTitles[0] = "Plain"; ObjectID = "VP5-Ph-Hcz"; */
+"VP5-Ph-Hcz.segmentTitles[0]" = "Plain";
+
+/* Class = "UISegmentedControl"; VP5-Ph-Hcz.segmentTitles[1] = "Desert"; ObjectID = "VP5-Ph-Hcz"; */
+"VP5-Ph-Hcz.segmentTitles[1]" = "Desert";
+
+/* Class = "UILabel"; text = "Scores"; ObjectID = "Vi1-SD-0KQ"; */
+"Vi1-SD-0KQ.text" = "Scores";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Zsb-Uo-rtr"; */
+"Zsb-Uo-rtr.text" = "Label";
+
+/* Class = "UILabel"; text = "Speed:"; ObjectID = "cwh-R2-zLN"; */
+"cwh-R2-zLN.text" = "Speed:";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "fry-ZV-Dx6"; */
+"fry-ZV-Dx6.normalTitle" = "Настройки";
+
+/* Class = "UIButton"; normalTitle = "Scores"; ObjectID = "gZ9-oF-SwL"; */
+"gZ9-oF-SwL.normalTitle" = "Лидеры";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hif-aR-KlK"; */
+"hif-aR-KlK.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "qXY-qq-zRL"; */
+"qXY-qq-zRL.normalTitle" = "Играть";
+
+/* Class = "UIButton"; normalTitle = "Choose car"; ObjectID = "zD9-fj-h8G"; */
+"zD9-fj-h8G.normalTitle" = "Автомобили";

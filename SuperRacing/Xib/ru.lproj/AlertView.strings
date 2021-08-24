@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "123"; ObjectID = "PAc-I1-cVk"; */
+"PAc-I1-cVk.text" = "123";
+
+/* Class = "UILabel"; text = "Game over!"; ObjectID = "PVa-5V-Tg9"; */
+"PVa-5V-Tg9.text" = "Game over!";
+
+/* Class = "UILabel"; text = "Score:"; ObjectID = "azJ-ed-XtM"; */
+"azJ-ed-XtM.text" = "Score:";
+
+/* Class = "UIButton"; normalTitle = "Retry"; ObjectID = "hHH-3J-5VL"; */
+"hHH-3J-5VL.normalTitle" = "Retry";
+
+/* Class = "UIButton"; normalTitle = "Menu"; ObjectID = "zBc-yT-MnQ"; */
+"zBc-yT-MnQ.normalTitle" = "Menu";
